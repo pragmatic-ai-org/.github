@@ -23,7 +23,7 @@ To build a community of practitioners who believe AI should be:
 We welcome contributions of all kinds! Here are some ways to get involved:
 
 ### Join the Discussion
-- Participate in [Discussions](https://github.com/orgs/PragmaticAI/discussions)
+- Participate in [Discussions](https://github.com/orgs/pragmatic-ai-org/discussions/)
 - Share your experiences with pragmatic approaches to AI
 - Ask questions and help others solve problems
 
