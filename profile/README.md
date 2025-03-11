@@ -13,7 +13,7 @@ To build a community of practitioners who believe AI should be:
 
 ## 🧰 What You'll Find Here
 
-- **[Core Principles](https://github.com/PragmaticAI/principles)**: Our foundational philosophy for building AI systems
+- **[Core Principles](https://pragmatic-ai.org/)**: Our foundational philosophy for building AI systems
 - **Tools & Libraries**: Open-source implementations that embody Pragmatic AI principles
 - **Guides & Best Practices**: Practical advice for implementing AI systems that work in the real world
 - **Discussions**: A place to exchange ideas, challenges, and solutions
@@ -26,11 +26,6 @@ We welcome contributions of all kinds! Here are some ways to get involved:
 - Participate in [Discussions](https://github.com/orgs/pragmatic-ai-org/discussions/)
 - Share your experiences with pragmatic approaches to AI
 - Ask questions and help others solve problems
-
-### Contribute Code
-- Check out our [contribution guidelines](https://github.com/PragmaticAI/contributing)
-- Look for issues labeled `good-first-issue` to get started
-- Submit PRs that align with our core principles
 
 ### Share Knowledge
 - Write tutorials or blog posts about Pragmatic AI approaches
